@@ -1,0 +1,95 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 80vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.primary-text {
+	color: lightgreen;
+}
+
+.navbar{
+	border-bottom: 2px solid lightgreen;
+}
+
+.widget-title{
+	background-color: #f2f2f2;
+}
+.widget-title h3 {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	padding-bottom: 10px;
+}
+
+.widget img{
+	width: 100%;
+	height: 250px;
+}
+
+.read-more a{
+	width: 100%
+}
+
+.about h4{
+	text-transform: uppercase;
+}
+
+.contact-us h4{
+	text-transform: uppercase;
+}
+
+.nav-item{
+	text-transform: uppercase;
+}
+
+.socials .fa{
+	font-size: 20px;
+	padding-right: 20px;
+}
+
+.contact-us .fa{
+	font-size: 20px;
+	padding-right: 10px;
+}
+
+.contact-us a{
+	color: #000;
+}
+
+.contact-us a:hover{
+	color: #a6d745;
+	text-decoration: none;
+}
+
+.fa i{
+	padding: 0;
+	margin: 0;
+}
+
+.socials {
+	text-align: center;
+}
+
+#upper-footer{
+	background-color: #f2f2f2;
+}
+
+.socials img{
+	width: 50px;
+	height: 50px;
+}
+
+#portpolio {
+	background-color: #ecf8d4;
+}
